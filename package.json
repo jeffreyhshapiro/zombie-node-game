@@ -1,0 +1,28 @@
+{
+  "name": "zombie-node-game",
+  "version": "1.0.0",
+  "description": "making a command line game using node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyhshapiro/zombie-node-game.git"
+  },
+  "keywords": [
+    "zombie",
+    "yombie",
+    "scrappy",
+    "doo"
+  ],
+  "author": "Jeff Shapiro, Elie Wohl, Ron Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreyhshapiro/zombie-node-game/issues"
+  },
+  "homepage": "https://github.com/jeffreyhshapiro/zombie-node-game#readme",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
